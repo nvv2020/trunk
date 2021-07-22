@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-// Add test comment
+// Test comment for "new" branch
 
 public class TrunkApplication {
 
